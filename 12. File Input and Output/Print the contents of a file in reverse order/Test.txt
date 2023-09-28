@@ -1,0 +1,4 @@
+This sentence will be reversed by the program you code.
+acronynm, synonym, neet, nibble,
+gulp
+goat

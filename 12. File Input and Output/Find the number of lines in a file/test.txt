@@ -1,0 +1,8 @@
+I am writing a bunch of lines that help you to practice opening and reading this file.
+Here is some random strings:
+whirl
+jolly
+ransome
+vandalism
+mugging
+gone off
